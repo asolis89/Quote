@@ -1,0 +1,1 @@
+This javascript is used as a simple quote system. It has many switches and is dependent on the user.
